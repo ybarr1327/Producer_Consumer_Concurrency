@@ -281,6 +281,7 @@ int main(int argc, char *argv[])
     std::cout << "=================================" << std::endl;
 
     //Error checking
+    
 
     if(argc < 4) //check if the user entered too little arguments, if so show message below and exit
     {
